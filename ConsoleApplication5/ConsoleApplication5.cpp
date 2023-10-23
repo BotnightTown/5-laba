@@ -31,6 +31,7 @@ void main()
     default:
         cout << "Помилка: K не задовільняє діапазону від 1 до 5";
     }
+    // 123
     cout << endl;
     system("pause");
 }
